@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Maryam
+ *
+ */
+module PrintAllString {
+}

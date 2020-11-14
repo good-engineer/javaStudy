@@ -1,0 +1,14 @@
+insert 1 apple1
+insert 11 apple2 
+insert 111 apple3 
+insert 2 banana1 
+insert 22 banana2 
+find 11 
+find 2
+remove 11 
+remove 2 
+find 111 
+find 22 
+quit
+
+? FIND: (2, banana1) ? REMOVE: (11, apple2) ? REMOVE: (2, banana1) ? FIND: (111, apple3) ? FIND: (22, banana2)
